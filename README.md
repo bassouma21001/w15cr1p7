@@ -9,6 +9,8 @@
 
 Simple Script with GUI for **Network Management**
 
+[![Build Status](https://travis-ci.com/bassouma21001/w15cr1p7.svg?branch=master)](https://travis-ci.com/bassouma21001/w15cr1p7)
+
 ### Usage
 
 Run :
